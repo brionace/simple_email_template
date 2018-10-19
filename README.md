@@ -1,1 +1,1 @@
-# simple_email_template
+# Simple Email Template
